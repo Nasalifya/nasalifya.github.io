@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nasalifya.github.io/sitemap.xml
